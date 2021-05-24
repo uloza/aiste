@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Aiste's blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Aiste Uloza`,
+      personality: `Adventurer (ISFP-T)`,
+      summary: `And these are my opinions, impressions and experiences.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Aiste Uloza's thoughts on personal, team and software development`,
+    siteUrl: `https://aiste.blog/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: `ulography`,
     },
   },
   plugins: [
