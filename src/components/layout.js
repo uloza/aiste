@@ -10,6 +10,11 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h1 className="main-heading">
         <Link to="/">{title}</Link>
+        <div className="main-menu">
+          <Link className="" to="/archive">
+            archive
+          </Link>
+        </div>
       </h1>
     )
   } else {
