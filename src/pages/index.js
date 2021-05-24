@@ -30,7 +30,6 @@ const BlogIndex = ({ data, location }) => {
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
-
           return (
             <li key={post.fields.slug}>
               <article
@@ -46,14 +45,12 @@ const BlogIndex = ({ data, location }) => {
                   </h2>
                   <small>{post.frontmatter.date}</small>
                 </header>
-                <section>
-                  <p
+                <section
                     dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
+                      __html: post.html || post.excerpt,
                     }}
-                    itemProp="description"
-                  />
-                </section>
+                    itemProp="articleBody"
+                />
               </article>
             </li>
           )
@@ -72,7 +69,11 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: 1000
+      filter: { frontmatter: { status: { eq: "publish" }}}
+      ) {
       nodes {
         excerpt
         fields {
@@ -83,6 +84,7 @@ export const pageQuery = graphql`
           title
           description
         }
+        html
       }
     }
   }

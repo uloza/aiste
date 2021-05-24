@@ -14,6 +14,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: ASC }
           limit: 1000
+          filter: { frontmatter: { status: { eq: "publish" }}}
         ) {
           nodes {
             id
@@ -95,17 +96,21 @@ exports.createSchemaCustomization = ({ actions }) => {
 
     type Social {
       twitter: String
+      instagram: String
     }
 
     type MarkdownRemark implements Node {
       frontmatter: Frontmatter
       fields: Fields
+      html: String
     }
 
     type Frontmatter {
       title: String
       description: String
       date: Date @dateformat
+      status: String
+      originallyPublished: Date @dateformat
     }
 
     type Fields {
