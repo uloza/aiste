@@ -5,6 +5,7 @@ originallyPublished: "2019-04-15"
 date: "2021-05-24"
 description: ""
 ---
+*[Originally published on April 15, 2019](https://medium.com/human-business-project/running-the-race-2d3ec738effa)*
 
 When you run 100m dash you have to go all out. The fastest runner wins.
 
@@ -20,14 +21,8 @@ At the startup that hired me upon graduation, the team ran a 400m race. There wa
 
 Jostle however is a different kind of athlete. An athlete that embraced a long game. A conservative, but very aware of its strengths. An athlete that continuously self evaluates. Focused on making the team stronger and more integrated. And addressing the clients immediate needs with flexible features to fit a wider range of use cases.
 
-Last week Jostle held its first JostleFest. It is the first quarterly event to celebrate achievements and work across the entire organization.
-
-Development teams demoed latest features and presented Q2 plans. Marketing team shared approaches used to get products in front of potential customers. Sales and customer success teams brought to the table customers and prospects point of view how to further improve project.
-
-Everyone left more engaged and aware of how their work contribute to the success. Sales and customer success are now more comfortable talking about the future of the product and development team is more in tune with customer needs.
-
 Maturing as an athlete is not only a process of growing extra muscles and logging extra miles. Lots of work has to be done to understand the self, build confidence, habits and mindset.
 
-It’s easy to expect that doubling in size as an organization will result in doubling in productivity. That is never the case. There is a period of time where a team needs to learn to communicate, understand the system and see the long term vision. Give it time.
+It’s easy to expect that doubling in size as an organization will result in doubling in productivity. That is never the case. There is a period of time where a team needs to learn to communicate, understand the system and see the long term vision. It takes time.
 
 Gather strengths and lean into the experience.

@@ -1,76 +1,34 @@
 ---
-title: How to grow Junior Developer.
+title: How to grow as a Junior developer 
 status: publish
-originallyPublished: "2017-06-15"
 date: "2021-05-24"
 description: ""
 ---
+*[Inspired by How to grow Junior Developer published on June 6, 2017](https://medium.com/human-business-project/how-to-grow-junior-developer-3a4b0dab057b)*
 
-It has been two years since I graduated from Lighthouse Labs as a junior software developer. In an 8 week intense stretch we were told what programming is, taught Ruby and JavaScript languages, introduced to 3 or 4 frameworks, and pushed to develop our own project.
+This is an account of what helped me and what I try to teach and apply with *junior* developers joining my team. 
 
-After that we were all off to start our careers. Lucky for us developers skills are in high demand. Unfortunately for us, from that point we had to embrace proactive learning, how to deal with imposter’s syndrome and learn how to swim in the sea of computer science graduates.
+##### Seek to understand
+Urge to deliver is the worst enemy of growing developers.
+Take time to understand the problem, the context and the system.
+If you cannot explain why your solution works - you are not ready to contribute your code to production.
 
-Last month I took part in the Polyglot conference unconference. There were at least two sessions dedicated to growing junior developers. Therefore I think it is appropriate to share a few things that have helped me.
+Most of the systems are built as an improvement of another system. Understanding one will give you a headstart to understanding another one.
 
-#1 Dedicated time for check in
+##### Read documentation
+Urge to deliver is the worst enemy of growing developers.
+You have time to read through documentation. You do not need to memorize it, you need to know what it can do, what limitations and quirks language, framework, library have and where to search for information. 
 
-As a new hire I was encouraged to ask questions. However after a month or two of asking questions I finally felt I should know. Yes, I thought I should be able to figure out solutions on my own. I did not want to be a burden anymore. I did not want to look foolish, unintelligent or straight up stupid. After all how long can it take to learn… Right?! Wrong.
+Especially when seeking to understand - what inputs method takes, what return values to expect, what changes properties introduce.
 
-It takes as long as it takes to learn. And some tasks are more complicated than others.
+StackOverflow is there when you cannot find answers in the documentation.
 
-Eventually I ended up in a circle — I believe I can solve the issue. It takes me forever. I am stressed. Senior developers on the other hand do not want to micromanage, they know I am a self learner. And we all end up going for weeks with little to no progress. (Or is it just me?) In any case.
+##### Demonstrate your thought process
+Explain your solution to your manager, coding buddy or a person that will do your code review. That way you will uncover if there is data missing, or concepts that are misunderstood. It is a chance to practice engineering and organization's cultural vocabulary. It will demonstrate your growing knowledge and expanding understanding. 
 
-Solution: Weekly (initially even twice a week) 30 minute check in on the projects to discuss direction, progress and bottlenecks.
+It can be done in person or in writing, whatever appeals to you better, but do it, it is a part of the job.
 
-Instead of running to ask a question every 30 minutes I can spent time researching and understanding the problem better and collecting my questions. Getting 30 minutes of undivided attention is invaluable. I get my questions answered, and I learn more about the organization, I connect to my mentor. And everyone leaves a meeting feeling we made a progress.
-
-#2 Code reviews
-
-Image credit: Unsplash | @tirzavandijk
-
-It is one thing to code a feature, to fix a bug and run it on my local machine. It is totally different thing to commit new code into production.
-
-Most companies employ code review as a knowledge transfer tool, but how many use it as a teaching opportunity?
-
-I will always be grateful to one of my first mentors who made me walk through the code review process on every chunk of code I submitted as a pull request.
-
-Introduce the problem — get everyone on the same page.
-
-Run the code — show everyone it works.
-
-Walk through a solution in layman words — demonstrate you understand the solution.
-
-Walk through the code — show it in the code.
-
-This process taught me to think before I code. It made me more confident to express my solutions in technical terms. I pay more attention to code readability.
-
-The principles laid out in Clean Code can be established and learned with this practice. If there are more junior developers on the team I suggest to get them involved in this process too.
-
-#3 Solution Design Sessions
-
-One of the biggest complaints expressed at the conference was a junior developers inability to see the big picture. And in all honesty nobody should be very surprised. Most of us at the start are just overwhelmed with the problem at hand. I remember working on the first project being terrified to even touch the code that someone else wrote.
-
-Solution: Discuss potential solution and architecture before writing the code. Whiteboard it. What existing code can be adapted, what can I build that can be used in the future.
-
-What really worked for me was when I had a bit of time to prototype the solution and come up with my suggestion, even if later on it was discarded. That allowed me to learn where my thought process need to improve.
-
-I find this technique incredibly valuable. I felt that I’m not only writing code and fixing someone’s bugs, but I’m designing and creating something new and useful for the future. It exposed me to see a bigger picture. That is one of the main reasons I got into the software development — to design solutions.
-
-#4 Exposure to more code
-
-The first thing with any code is to see how it was done before, and how it was implemented to solve similar problems. So exposure to code seems to be a natural suggestion.
-
-However what helped me the most was working on a side projects. Rewriting code someone has written and actually seeing how it was developed step by step.
-
-In a work environment I try to pick up a feature at seemingly different parts of the platform just to see how other developers think and code.
-
-#5 Everyone gets stuck on silly mistakes
-
-This one is just a reminder that none of us can ever stop learning and only collaboration and knowledge sharing can bring development further.
-
-After two years among the coding community I know that sometimes finding the smallest mistake can take days and it has nothing to do with your smarts, intelligence or good looks.
-
-Asking for help is the way to grow and we should never be ashamed to reach out for help and to offer help. And how my dad puts it:
-“When you have spent on a problem two hours (days, weeks, months), do not be disappointed you haven’t done it in an hour (day, week, month). Be happy it did not take you four hours (days, weeks, months)”
-
-> Thanks to my dad who helped me immensely making my first steps and showing me how interesting and rewarding development can be. Thanks to Voleo for taking a chance on me as a brand new Lighthouse Labs graduate. And all the former, current and future teachers. Your time and effort does not go unappreciated.
+##### Read these classics
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.ca/dp/B06XP3GJ7F/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?dchild=1&keywords=clean+code&qid=1621902062&s=digital-text&sr=1-1)
+* [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://www.amazon.ca/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)

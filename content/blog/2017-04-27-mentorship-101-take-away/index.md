@@ -1,14 +1,10 @@
 ---
-title: Mentorship 101 Take away.
-status: publish
-originallyPublished: "2017-04-27"
+title: Mentorship 101.
+status: draft
 date: "2021-05-24"
 description: ""
 ---
-
-Last night I attended Mentorship 101 workshop. It was 2.5 hours of interactive reflection and discussion time. 95% of attendees were woman as the workshop was organized and presented by Women Who Code in cooperation with Lighthouse Labs. 
-
-Here’s just some thoughts floating in my head after it.
+*[Originally published on April 27, 2017](https://medium.com/@ulodev/mentorship-101-take-away-394e061406b8) this edited version. Originally I wrote this note after attending Mentorship 101 workshop organized by [Women Who Code](https://www.womenwhocode.com/) in cooperation with [Lighthouse Labs](https://www.lighthouselabs.ca/).*
 
 Family members as mentors
 It was interesting to see how many woman came forward to claim their family members (partners, mothers, fathers, etc.) as their closest mentors. People that know them best, share similar values and have insight into the industries as they are already working in it.
